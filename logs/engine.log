@@ -1,0 +1,2235 @@
+2025-11-13 00:04:05 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 00:04:05 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 00:04:05 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 00:04:05 [main] INFO  GLFramebuffer - Created
+2025-11-13 00:04:06 [main] INFO  GLVertexArray - Created
+2025-11-13 00:04:06 [main] INFO  GLIndexBuffer - Created
+2025-11-13 00:04:06 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 00:04:06 [main] INFO  GLShader (default) - Compiled
+2025-11-13 00:04:06 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 00:04:06 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 00:04:06 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 00:04:06 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 00:04:06 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 00:04:06 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 00:04:06 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 00:04:17 [main] INFO  GLVertexArray - Deleted
+2025-11-13 00:04:17 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 00:04:17 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 00:04:17 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 00:04:17 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 00:05:25 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 00:05:25 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 00:05:25 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 00:05:25 [main] INFO  GLFramebuffer - Created
+2025-11-13 00:05:25 [main] INFO  GLVertexArray - Created
+2025-11-13 00:05:25 [main] INFO  GLIndexBuffer - Created
+2025-11-13 00:05:25 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 00:05:25 [main] INFO  GLShader (default) - Compiled
+2025-11-13 00:05:25 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 00:05:25 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 00:05:25 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 00:05:25 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 00:05:25 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 00:05:26 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 00:05:26 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 00:05:39 [main] INFO  GLVertexArray - Deleted
+2025-11-13 00:05:39 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 00:05:39 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 00:05:39 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 00:05:39 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 00:06:45 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 00:06:45 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 00:06:45 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 00:06:45 [main] INFO  GLFramebuffer - Created
+2025-11-13 00:06:46 [main] INFO  GLVertexArray - Created
+2025-11-13 00:06:46 [main] INFO  GLIndexBuffer - Created
+2025-11-13 00:06:46 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 00:06:46 [main] INFO  GLShader (default) - Compiled
+2025-11-13 00:06:46 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 00:06:46 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 00:06:46 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 00:06:46 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 00:06:46 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 00:06:46 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 00:06:46 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 00:06:52 [main] INFO  GLVertexArray - Deleted
+2025-11-13 00:06:52 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 00:06:52 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 00:06:52 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 00:06:52 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 00:07:52 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 00:07:52 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 00:07:52 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 00:07:52 [main] INFO  GLFramebuffer - Created
+2025-11-13 00:07:52 [main] INFO  GLVertexArray - Created
+2025-11-13 00:07:52 [main] INFO  GLIndexBuffer - Created
+2025-11-13 00:07:52 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 00:07:52 [main] INFO  GLShader (default) - Compiled
+2025-11-13 00:07:52 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 00:07:52 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 00:07:52 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 00:07:52 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 00:07:52 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 00:07:53 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 00:07:53 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 00:08:13 [main] INFO  GLVertexArray - Deleted
+2025-11-13 00:08:13 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 00:08:13 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 00:08:13 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 00:08:13 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 00:08:45 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 00:08:45 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 00:08:45 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 00:08:45 [main] INFO  GLFramebuffer - Created
+2025-11-13 00:08:45 [main] INFO  GLVertexArray - Created
+2025-11-13 00:08:45 [main] INFO  GLIndexBuffer - Created
+2025-11-13 00:08:45 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 00:08:45 [main] INFO  GLShader (default) - Compiled
+2025-11-13 00:08:45 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 00:08:45 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 00:08:45 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 00:08:45 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 00:08:45 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 00:08:46 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 00:08:46 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 00:08:56 [main] INFO  GLVertexArray - Deleted
+2025-11-13 00:08:56 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 00:08:56 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 00:08:56 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 00:08:56 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 00:09:26 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 00:09:27 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 00:09:27 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 00:09:27 [main] INFO  GLFramebuffer - Created
+2025-11-13 00:09:27 [main] INFO  GLVertexArray - Created
+2025-11-13 00:09:27 [main] INFO  GLIndexBuffer - Created
+2025-11-13 00:09:27 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 00:09:27 [main] INFO  GLShader (default) - Compiled
+2025-11-13 00:09:27 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 00:09:27 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 00:09:27 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 00:09:27 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 00:09:27 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 00:09:27 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 00:09:27 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 00:09:34 [main] INFO  GLVertexArray - Deleted
+2025-11-13 00:09:34 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 00:09:34 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 00:09:34 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 00:09:34 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 00:12:48 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 00:12:48 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 00:12:48 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 00:12:48 [main] INFO  GLFramebuffer - Created
+2025-11-13 00:12:48 [main] INFO  GLVertexArray - Created
+2025-11-13 00:12:48 [main] INFO  GLIndexBuffer - Created
+2025-11-13 00:12:48 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 00:12:49 [main] INFO  GLShader (default) - Compiled
+2025-11-13 00:12:49 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 00:12:49 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 00:12:49 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 00:12:49 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 00:12:49 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 00:12:49 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 00:12:49 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 00:12:59 [main] INFO  GLVertexArray - Deleted
+2025-11-13 00:12:59 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 00:12:59 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 00:12:59 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 00:12:59 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 00:13:16 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 00:13:16 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 00:13:16 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 00:13:16 [main] INFO  GLFramebuffer - Created
+2025-11-13 00:13:17 [main] INFO  GLVertexArray - Created
+2025-11-13 00:13:17 [main] INFO  GLIndexBuffer - Created
+2025-11-13 00:13:17 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 00:13:17 [main] INFO  GLShader (default) - Compiled
+2025-11-13 00:13:17 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 00:13:17 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 00:13:17 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 00:13:17 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 00:13:17 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 00:13:17 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 00:13:17 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 00:13:19 [main] INFO  GLVertexArray - Deleted
+2025-11-13 00:13:19 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 00:13:19 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 00:13:19 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 00:13:19 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 00:15:43 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 00:15:43 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 00:15:43 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 00:15:43 [main] INFO  GLFramebuffer - Created
+2025-11-13 00:15:44 [main] INFO  GLVertexArray - Created
+2025-11-13 00:15:44 [main] INFO  GLIndexBuffer - Created
+2025-11-13 00:15:44 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 00:15:44 [main] INFO  GLShader (default) - Compiled
+2025-11-13 00:15:44 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 00:15:44 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 00:15:44 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 00:15:44 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 00:15:44 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 00:15:44 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 00:15:44 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 00:15:50 [main] INFO  GLVertexArray - Deleted
+2025-11-13 00:15:50 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 00:15:50 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 00:15:50 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 00:15:50 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 00:59:06 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 00:59:07 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 00:59:07 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 00:59:07 [main] INFO  GLFramebuffer - Created
+2025-11-13 00:59:07 [main] INFO  GLVertexArray - Created
+2025-11-13 00:59:07 [main] INFO  GLIndexBuffer - Created
+2025-11-13 00:59:07 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 00:59:07 [main] INFO  GLShader (default) - Compiled
+2025-11-13 00:59:07 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 00:59:07 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 00:59:07 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 00:59:07 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 00:59:07 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 00:59:07 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 00:59:07 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 00:59:14 [main] INFO  GLVertexArray - Deleted
+2025-11-13 00:59:14 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 00:59:14 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 00:59:14 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 00:59:14 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 00:59:29 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 00:59:29 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 00:59:29 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 00:59:29 [main] INFO  GLFramebuffer - Created
+2025-11-13 00:59:29 [main] INFO  GLVertexArray - Created
+2025-11-13 00:59:29 [main] INFO  GLIndexBuffer - Created
+2025-11-13 00:59:29 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 00:59:29 [main] INFO  GLShader (default) - Compiled
+2025-11-13 00:59:29 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 00:59:29 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 00:59:29 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 00:59:29 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 00:59:29 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 00:59:30 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 00:59:30 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 00:59:48 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 00:59:48 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 01:09:39 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 01:09:39 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 01:09:39 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 01:09:39 [main] INFO  GLFramebuffer - Created
+2025-11-13 01:09:39 [main] INFO  GLVertexArray - Created
+2025-11-13 01:09:39 [main] INFO  GLIndexBuffer - Created
+2025-11-13 01:09:39 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 01:09:39 [main] INFO  GLShader (default) - Compiled
+2025-11-13 01:09:39 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 01:09:39 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 01:09:39 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 01:09:40 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 01:09:40 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 01:09:40 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 01:09:40 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 01:10:08 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 01:10:08 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 01:10:08 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 01:10:08 [main] INFO  GLFramebuffer - Created
+2025-11-13 01:10:08 [main] INFO  GLVertexArray - Created
+2025-11-13 01:10:08 [main] INFO  GLIndexBuffer - Created
+2025-11-13 01:10:08 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 01:10:08 [main] INFO  GLShader (default) - Compiled
+2025-11-13 01:10:08 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 01:10:08 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 01:10:08 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 01:10:08 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 01:10:08 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 01:10:08 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 01:10:08 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 01:10:16 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 01:10:16 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 01:10:17 [main] ERROR GLTexture (holy_mantle.png) - Failed to read bytes
+java.nio.file.InvalidPathException: Illegal char <:> at index 6: assets:textures/holy_mantle.png
+	at java.base/sun.nio.fs.WindowsPathParser.normalize(WindowsPathParser.java:182)
+	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:153)
+	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:77)
+	at java.base/sun.nio.fs.WindowsPath.parse(WindowsPath.java:92)
+	at java.base/sun.nio.fs.WindowsFileSystem.getPath(WindowsFileSystem.java:232)
+	at java.base/java.nio.file.Path.resolve(Path.java:515)
+	at org.fern.engine.resource.ResourceLoader.getUserResourceStream(ResourceLoader.kt:195)
+	at org.fern.engine.resource.ResourceLoader.getResourceStream(ResourceLoader.kt:176)
+	at org.fern.engine.resource.ResourceLoader.loadBytesUncached(ResourceLoader.kt:169)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$3(ResourceLoader.kt:50)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$4(ResourceLoader.kt:49)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:49)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:106)
+	at org.fern.engine.resource.ResourceLoader.loadBytes(ResourceLoader.kt:113)
+	at org.fern.engine.resource.ResourceLoader.loadBytes$default(ResourceLoader.kt:112)
+	at org.fern.engine.renderer.opengl.GLTexture.<init>(GLTexture.kt:114)
+	at org.fern.engine.renderer.Texture$Companion.create(Texture.kt:25)
+	at org.fern.engine.editor.ReflectionInspector.registerDefaultDrawers$lambda$41(ReflectionInspector.kt:411)
+	at org.fern.engine.editor.ReflectionInspector.drawValueInternal(ReflectionInspector.kt:202)
+	at org.fern.engine.editor.ReflectionInspector.drawValue(ReflectionInspector.kt:177)
+	at org.fern.engine.editor.ReflectionInspector.inspectObject(ReflectionInspector.kt:92)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:93)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:121)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 01:10:17 [main] WARN  GLTexture (holy_mantle.png) - Created 1x1 fallback
+2025-11-13 01:10:21 [main] ERROR GLTexture (holy_mantle.png) - Failed to read bytes
+java.nio.file.InvalidPathException: Illegal char <:> at index 6: assets:textures/holy_mantle.png
+	at java.base/sun.nio.fs.WindowsPathParser.normalize(WindowsPathParser.java:182)
+	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:153)
+	at java.base/sun.nio.fs.WindowsPathParser.parse(WindowsPathParser.java:77)
+	at java.base/sun.nio.fs.WindowsPath.parse(WindowsPath.java:92)
+	at java.base/sun.nio.fs.WindowsFileSystem.getPath(WindowsFileSystem.java:232)
+	at java.base/java.nio.file.Path.resolve(Path.java:515)
+	at org.fern.engine.resource.ResourceLoader.getUserResourceStream(ResourceLoader.kt:195)
+	at org.fern.engine.resource.ResourceLoader.getResourceStream(ResourceLoader.kt:176)
+	at org.fern.engine.resource.ResourceLoader.loadBytesUncached(ResourceLoader.kt:169)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$3(ResourceLoader.kt:50)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$4(ResourceLoader.kt:49)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:49)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:106)
+	at org.fern.engine.resource.ResourceLoader.loadBytes(ResourceLoader.kt:113)
+	at org.fern.engine.resource.ResourceLoader.loadBytes$default(ResourceLoader.kt:112)
+	at org.fern.engine.renderer.opengl.GLTexture.<init>(GLTexture.kt:114)
+	at org.fern.engine.renderer.Texture$Companion.create(Texture.kt:25)
+	at org.fern.engine.editor.ReflectionInspector.registerDefaultDrawers$lambda$41(ReflectionInspector.kt:411)
+	at org.fern.engine.editor.ReflectionInspector.drawValueInternal(ReflectionInspector.kt:202)
+	at org.fern.engine.editor.ReflectionInspector.drawValue(ReflectionInspector.kt:177)
+	at org.fern.engine.editor.ReflectionInspector.inspectObject(ReflectionInspector.kt:92)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:93)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:121)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 01:10:21 [main] WARN  GLTexture (holy_mantle.png) - Created 1x1 fallback
+2025-11-13 01:10:59 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 01:10:59 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 01:11:00 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 01:11:00 [main] INFO  GLFramebuffer - Created
+2025-11-13 01:11:00 [main] INFO  GLVertexArray - Created
+2025-11-13 01:11:00 [main] INFO  GLIndexBuffer - Created
+2025-11-13 01:11:00 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 01:11:00 [main] INFO  GLShader (default) - Compiled
+2025-11-13 01:11:00 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 01:11:00 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 01:11:00 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 01:11:00 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 01:11:00 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 01:11:00 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 01:11:00 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 01:11:02 [main] INFO  GLVertexArray - Deleted
+2025-11-13 01:11:02 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 01:11:02 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 01:11:02 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 01:11:02 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 01:11:24 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 01:11:24 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 01:11:25 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 01:11:25 [main] INFO  GLFramebuffer - Created
+2025-11-13 01:11:25 [main] INFO  GLVertexArray - Created
+2025-11-13 01:11:25 [main] INFO  GLIndexBuffer - Created
+2025-11-13 01:11:25 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 01:11:25 [main] INFO  GLShader (default) - Compiled
+2025-11-13 01:11:25 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 01:11:25 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 01:11:25 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 01:11:25 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 01:11:25 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 01:11:34 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 01:11:34 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 01:29:58 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 01:29:59 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 01:29:59 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 01:29:59 [main] INFO  GLFramebuffer - Created
+2025-11-13 01:29:59 [main] INFO  GLVertexArray - Created
+2025-11-13 01:29:59 [main] INFO  GLIndexBuffer - Created
+2025-11-13 01:29:59 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 01:29:59 [main] INFO  GLShader (default) - Compiled
+2025-11-13 01:29:59 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 01:29:59 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 01:29:59 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 01:30:00 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 01:30:00 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 01:31:30 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 01:31:30 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 01:31:30 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 01:31:30 [main] INFO  GLFramebuffer - Created
+2025-11-13 01:31:30 [main] INFO  GLVertexArray - Created
+2025-11-13 01:31:30 [main] INFO  GLIndexBuffer - Created
+2025-11-13 01:31:30 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 01:31:30 [main] INFO  GLShader (default) - Compiled
+2025-11-13 01:31:30 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 01:31:30 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 01:31:30 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 01:31:31 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 01:31:31 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 01:31:39 [main] INFO  GLVertexArray - Deleted
+2025-11-13 01:31:39 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 01:31:39 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 01:31:39 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 01:31:40 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 01:31:47 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 01:31:47 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 01:31:48 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 01:31:48 [main] INFO  GLFramebuffer - Created
+2025-11-13 01:31:48 [main] INFO  GLVertexArray - Created
+2025-11-13 01:31:48 [main] INFO  GLIndexBuffer - Created
+2025-11-13 01:31:48 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 01:31:48 [main] INFO  GLShader (default) - Compiled
+2025-11-13 01:31:48 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 01:31:48 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 01:31:48 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 01:31:48 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 01:31:48 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 01:31:54 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 01:31:54 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 01:31:56 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 01:31:56 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 01:32:13 [main] INFO  GLVertexArray - Deleted
+2025-11-13 01:32:13 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 01:32:13 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 01:32:13 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 01:32:13 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 02:15:23 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 02:15:23 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 02:15:24 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 02:15:24 [main] INFO  GLFramebuffer - Created
+2025-11-13 02:15:24 [main] INFO  GLVertexArray - Created
+2025-11-13 02:15:24 [main] INFO  GLIndexBuffer - Created
+2025-11-13 02:15:24 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 02:15:24 [main] INFO  GLShader (default) - Compiled
+2025-11-13 02:15:24 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 02:15:24 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 02:15:24 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 02:15:24 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 02:15:24 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 02:15:28 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 02:15:28 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 02:15:35 [main] INFO  GLVertexArray - Deleted
+2025-11-13 02:15:35 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 02:15:35 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 02:15:35 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 02:15:35 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 02:17:00 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 02:17:00 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 02:17:00 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 02:17:00 [main] INFO  GLFramebuffer - Created
+2025-11-13 02:17:00 [main] INFO  GLVertexArray - Created
+2025-11-13 02:17:00 [main] INFO  GLIndexBuffer - Created
+2025-11-13 02:17:00 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 02:17:00 [main] INFO  GLShader (default) - Compiled
+2025-11-13 02:17:00 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 02:17:01 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 02:17:01 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 02:17:01 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 02:17:01 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 02:17:04 [main] DEBUG EditorLayer - Selected: Camera 0
+2025-11-13 02:17:10 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 02:17:10 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 02:17:17 [main] INFO  GLVertexArray - Deleted
+2025-11-13 02:17:17 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 02:17:17 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 02:17:17 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 02:17:17 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 02:18:05 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 02:18:06 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 02:18:06 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 02:18:06 [main] INFO  GLFramebuffer - Created
+2025-11-13 02:18:06 [main] INFO  GLVertexArray - Created
+2025-11-13 02:18:06 [main] INFO  GLIndexBuffer - Created
+2025-11-13 02:18:06 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 02:18:06 [main] INFO  GLShader (default) - Compiled
+2025-11-13 02:18:06 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 02:18:06 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 02:18:06 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 02:18:06 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 02:18:06 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 02:18:09 [main] DEBUG EditorLayer - Selected: assets\textures
+2025-11-13 02:18:09 [main] ERROR GLTexture (textures) - Failed to read bytes
+org.fern.engine.resource.ResourceNotFoundException: Resource not found (USER): assets\textures
+	at org.fern.engine.resource.ResourceLoader.loadBytesUncached(ResourceLoader.kt:169)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$3(ResourceLoader.kt:50)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$4(ResourceLoader.kt:49)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:49)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:101)
+	at org.fern.engine.resource.ResourceLoader.loadBytes(ResourceLoader.kt:113)
+	at org.fern.engine.resource.ResourceLoader.loadBytes$default(ResourceLoader.kt:112)
+	at org.fern.engine.renderer.opengl.GLTexture.<init>(GLTexture.kt:114)
+	at org.fern.engine.renderer.Texture$Companion.create(Texture.kt:28)
+	at org.fern.engine.editor.TextureAssetInspectable.ensurePreview(TextureAssetInspectable.kt:93)
+	at org.fern.engine.editor.TextureAssetInspectable.drawPreviewSlot(TextureAssetInspectable.kt:42)
+	at org.fern.engine.editor.TextureAssetInspectable.draw(TextureAssetInspectable.kt:24)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:52)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:132)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 02:18:09 [main] WARN  GLTexture (textures) - Created 1x1 fallback
+2025-11-13 02:18:09 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 02:18:09 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 02:18:13 [main] DEBUG EditorLayer - Selected: assets\shaders
+2025-11-13 02:18:13 [main] ERROR GLTexture (shaders) - Failed to read bytes
+org.fern.engine.resource.ResourceNotFoundException: Resource not found (USER): assets\shaders
+	at org.fern.engine.resource.ResourceLoader.loadBytesUncached(ResourceLoader.kt:169)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$3(ResourceLoader.kt:50)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$4(ResourceLoader.kt:49)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:49)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:101)
+	at org.fern.engine.resource.ResourceLoader.loadBytes(ResourceLoader.kt:113)
+	at org.fern.engine.resource.ResourceLoader.loadBytes$default(ResourceLoader.kt:112)
+	at org.fern.engine.renderer.opengl.GLTexture.<init>(GLTexture.kt:114)
+	at org.fern.engine.renderer.Texture$Companion.create(Texture.kt:28)
+	at org.fern.engine.editor.TextureAssetInspectable.ensurePreview(TextureAssetInspectable.kt:93)
+	at org.fern.engine.editor.TextureAssetInspectable.drawPreviewSlot(TextureAssetInspectable.kt:42)
+	at org.fern.engine.editor.TextureAssetInspectable.draw(TextureAssetInspectable.kt:24)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:52)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:132)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 02:18:13 [main] WARN  GLTexture (shaders) - Created 1x1 fallback
+2025-11-13 02:18:14 [main] DEBUG EditorLayer - Selected: assets\textures
+2025-11-13 02:18:14 [main] ERROR GLTexture (textures) - Failed to read bytes
+org.fern.engine.resource.ResourceNotFoundException: Resource not found (USER): assets\textures
+	at org.fern.engine.resource.ResourceLoader.loadBytesUncached(ResourceLoader.kt:169)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$3(ResourceLoader.kt:50)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$4(ResourceLoader.kt:49)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:49)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:101)
+	at org.fern.engine.resource.ResourceLoader.loadBytes(ResourceLoader.kt:113)
+	at org.fern.engine.resource.ResourceLoader.loadBytes$default(ResourceLoader.kt:112)
+	at org.fern.engine.renderer.opengl.GLTexture.<init>(GLTexture.kt:114)
+	at org.fern.engine.renderer.Texture$Companion.create(Texture.kt:28)
+	at org.fern.engine.editor.TextureAssetInspectable.ensurePreview(TextureAssetInspectable.kt:93)
+	at org.fern.engine.editor.TextureAssetInspectable.drawPreviewSlot(TextureAssetInspectable.kt:42)
+	at org.fern.engine.editor.TextureAssetInspectable.draw(TextureAssetInspectable.kt:24)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:52)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:132)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 02:18:14 [main] WARN  GLTexture (textures) - Created 1x1 fallback
+2025-11-13 02:18:29 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 02:18:29 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 02:18:30 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 02:18:30 [main] INFO  GLFramebuffer - Created
+2025-11-13 02:18:30 [main] INFO  GLVertexArray - Created
+2025-11-13 02:18:30 [main] INFO  GLIndexBuffer - Created
+2025-11-13 02:18:30 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 02:18:30 [main] INFO  GLShader (default) - Compiled
+2025-11-13 02:18:30 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 02:18:30 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 02:18:30 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 02:18:30 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 02:18:30 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 02:18:35 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 02:18:35 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 02:20:09 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 02:20:09 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 02:20:09 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 02:20:09 [main] INFO  GLFramebuffer - Created
+2025-11-13 02:20:10 [main] INFO  GLVertexArray - Created
+2025-11-13 02:20:10 [main] INFO  GLIndexBuffer - Created
+2025-11-13 02:20:10 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 02:20:10 [main] INFO  GLShader (default) - Compiled
+2025-11-13 02:20:10 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 02:20:10 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 02:20:10 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 02:20:10 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 02:20:10 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 02:20:11 [main] DEBUG EditorLayer - Selected non image: assets\textures
+2025-11-13 02:20:12 [main] DEBUG EditorLayer - Selected non image: assets\textures
+2025-11-13 02:20:13 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 02:20:13 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 02:20:16 [main] DEBUG EditorLayer - Selected non image: assets\textures\holy_mantle.png
+2025-11-13 02:20:19 [main] INFO  GLVertexArray - Deleted
+2025-11-13 02:20:19 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 02:20:19 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 02:20:19 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 02:20:19 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 02:22:37 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 02:22:37 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 02:22:37 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 02:22:37 [main] INFO  GLFramebuffer - Created
+2025-11-13 02:22:37 [main] INFO  GLVertexArray - Created
+2025-11-13 02:22:37 [main] INFO  GLIndexBuffer - Created
+2025-11-13 02:22:37 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 02:22:37 [main] INFO  GLShader (default) - Compiled
+2025-11-13 02:22:37 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 02:22:37 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 02:22:37 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 02:22:37 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 02:22:37 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 02:22:40 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 02:22:40 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 02:22:41 [main] ERROR GLTexture (holy_mantle.png) - Failed to read bytes
+org.fern.engine.resource.ResourceNotFoundException: Resource not found (USER): assets/textures/holy_mantle.png
+	at org.fern.engine.resource.ResourceLoader.loadBytesUncached(ResourceLoader.kt:169)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$3(ResourceLoader.kt:50)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$4(ResourceLoader.kt:49)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:49)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:101)
+	at org.fern.engine.resource.ResourceLoader.loadBytes(ResourceLoader.kt:113)
+	at org.fern.engine.resource.ResourceLoader.loadBytes$default(ResourceLoader.kt:112)
+	at org.fern.engine.renderer.opengl.GLTexture.<init>(GLTexture.kt:114)
+	at org.fern.engine.renderer.Texture$Companion.create(Texture.kt:28)
+	at org.fern.engine.editor.TextureAssetInspectable.ensurePreview(TextureAssetInspectable.kt:93)
+	at org.fern.engine.editor.TextureAssetInspectable.drawPreviewSlot(TextureAssetInspectable.kt:42)
+	at org.fern.engine.editor.TextureAssetInspectable.draw(TextureAssetInspectable.kt:24)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:52)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:130)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 02:22:41 [main] WARN  GLTexture (holy_mantle.png) - Created 1x1 fallback
+2025-11-13 02:22:45 [main] INFO  GLTexture (holy_mantle.png) - Deleted
+2025-11-13 02:22:45 [main] ERROR GLTexture (holy_mantle.png) - Failed to read bytes
+org.fern.engine.resource.ResourceNotFoundException: Resource not found (USER): assets/textures/holy_mantle.png
+	at org.fern.engine.resource.ResourceLoader.loadBytesUncached(ResourceLoader.kt:169)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$3(ResourceLoader.kt:50)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$4(ResourceLoader.kt:49)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:49)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:101)
+	at org.fern.engine.resource.ResourceLoader.loadBytes(ResourceLoader.kt:113)
+	at org.fern.engine.resource.ResourceLoader.loadBytes$default(ResourceLoader.kt:112)
+	at org.fern.engine.renderer.opengl.GLTexture.<init>(GLTexture.kt:114)
+	at org.fern.engine.renderer.Texture$Companion.create(Texture.kt:28)
+	at org.fern.engine.editor.TextureAssetInspectable.ensurePreview(TextureAssetInspectable.kt:93)
+	at org.fern.engine.editor.TextureAssetInspectable.drawPreviewSlot(TextureAssetInspectable.kt:65)
+	at org.fern.engine.editor.TextureAssetInspectable.draw(TextureAssetInspectable.kt:24)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:52)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:130)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 02:22:45 [main] WARN  GLTexture (holy_mantle.png) - Created 1x1 fallback
+2025-11-13 02:22:59 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file.png
+2025-11-13 02:22:59 [main] INFO  GLTexture (file.png) - Loaded (240x240)
+2025-11-13 02:23:04 [main] INFO  GLVertexArray - Deleted
+2025-11-13 02:23:04 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 02:23:04 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 02:23:04 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 02:23:04 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 02:28:50 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 02:28:50 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 02:28:51 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 02:28:51 [main] INFO  GLFramebuffer - Created
+2025-11-13 02:28:51 [main] INFO  GLVertexArray - Created
+2025-11-13 02:28:51 [main] INFO  GLIndexBuffer - Created
+2025-11-13 02:28:51 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 02:28:51 [main] INFO  GLShader (default) - Compiled
+2025-11-13 02:28:51 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 02:28:51 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 02:28:51 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 02:28:51 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 02:28:51 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 02:29:01 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 02:29:01 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 02:29:01 [main] ERROR GLTexture (holy_mantle.png) - Failed to read bytes
+org.fern.engine.resource.ResourceNotFoundException: Resource not found (USER): assets/textures/holy_mantle.png
+	at org.fern.engine.resource.ResourceLoader.loadBytesUncached(ResourceLoader.kt:169)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$3(ResourceLoader.kt:50)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$4(ResourceLoader.kt:49)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:49)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:101)
+	at org.fern.engine.resource.ResourceLoader.loadBytes(ResourceLoader.kt:113)
+	at org.fern.engine.resource.ResourceLoader.loadBytes$default(ResourceLoader.kt:112)
+	at org.fern.engine.renderer.opengl.GLTexture.<init>(GLTexture.kt:114)
+	at org.fern.engine.renderer.Texture$Companion.create(Texture.kt:28)
+	at org.fern.engine.editor.TextureAssetInspectable.ensurePreview(TextureAssetInspectable.kt:93)
+	at org.fern.engine.editor.TextureAssetInspectable.drawPreviewSlot(TextureAssetInspectable.kt:42)
+	at org.fern.engine.editor.TextureAssetInspectable.draw(TextureAssetInspectable.kt:24)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:52)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:130)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 02:29:01 [main] WARN  GLTexture (holy_mantle.png) - Created 1x1 fallback
+2025-11-13 02:29:04 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file.png
+2025-11-13 02:29:04 [main] INFO  GLTexture (file.png) - Loaded (240x240)
+2025-11-13 02:29:07 [main] ERROR GLTexture (holy_mantle.png) - Failed to read bytes
+org.fern.engine.resource.ResourceNotFoundException: Resource not found (USER): assets/textures/holy_mantle.png
+	at org.fern.engine.resource.ResourceLoader.loadBytesUncached(ResourceLoader.kt:169)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$3(ResourceLoader.kt:50)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$4(ResourceLoader.kt:49)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:49)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:101)
+	at org.fern.engine.resource.ResourceLoader.loadBytes(ResourceLoader.kt:113)
+	at org.fern.engine.resource.ResourceLoader.loadBytes$default(ResourceLoader.kt:112)
+	at org.fern.engine.renderer.opengl.GLTexture.<init>(GLTexture.kt:114)
+	at org.fern.engine.renderer.Texture$Companion.create(Texture.kt:28)
+	at org.fern.engine.editor.TextureAssetInspectable.ensurePreview(TextureAssetInspectable.kt:93)
+	at org.fern.engine.editor.TextureAssetInspectable.drawPreviewSlot(TextureAssetInspectable.kt:42)
+	at org.fern.engine.editor.TextureAssetInspectable.draw(TextureAssetInspectable.kt:24)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:52)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:130)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 02:29:07 [main] WARN  GLTexture (holy_mantle.png) - Created 1x1 fallback
+2025-11-13 02:29:08 [main] ERROR GLTexture (holy_mantle.png) - Failed to read bytes
+org.fern.engine.resource.ResourceNotFoundException: Resource not found (USER): assets/textures/holy_mantle.png
+	at org.fern.engine.resource.ResourceLoader.loadBytesUncached(ResourceLoader.kt:169)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$3(ResourceLoader.kt:50)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$4(ResourceLoader.kt:49)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:49)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:101)
+	at org.fern.engine.resource.ResourceLoader.loadBytes(ResourceLoader.kt:113)
+	at org.fern.engine.resource.ResourceLoader.loadBytes$default(ResourceLoader.kt:112)
+	at org.fern.engine.renderer.opengl.GLTexture.<init>(GLTexture.kt:114)
+	at org.fern.engine.renderer.Texture$Companion.create(Texture.kt:28)
+	at org.fern.engine.editor.TextureAssetInspectable.ensurePreview(TextureAssetInspectable.kt:93)
+	at org.fern.engine.editor.TextureAssetInspectable.drawPreviewSlot(TextureAssetInspectable.kt:42)
+	at org.fern.engine.editor.TextureAssetInspectable.draw(TextureAssetInspectable.kt:24)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:52)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:130)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 02:29:08 [main] WARN  GLTexture (holy_mantle.png) - Created 1x1 fallback
+2025-11-13 02:29:11 [main] INFO  GLVertexArray - Deleted
+2025-11-13 02:29:11 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 02:29:11 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 02:29:11 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 02:29:11 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 02:30:39 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 02:30:40 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 02:30:40 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 02:30:40 [main] INFO  GLFramebuffer - Created
+2025-11-13 02:30:40 [main] INFO  GLVertexArray - Created
+2025-11-13 02:30:40 [main] INFO  GLIndexBuffer - Created
+2025-11-13 02:30:40 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 02:30:40 [main] INFO  GLShader (default) - Compiled
+2025-11-13 02:30:40 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 02:30:40 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 02:30:40 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 02:30:40 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 02:30:40 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 02:30:43 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 02:30:43 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 02:30:43 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file.png
+2025-11-13 02:30:43 [main] INFO  GLTexture (file.png) - Loaded (240x240)
+2025-11-13 02:30:46 [main] INFO  GLVertexArray - Deleted
+2025-11-13 02:30:46 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 02:30:46 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 02:30:46 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 02:30:46 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 02:30:53 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 02:30:53 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 02:30:53 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 02:30:53 [main] INFO  GLFramebuffer - Created
+2025-11-13 02:30:53 [main] INFO  GLVertexArray - Created
+2025-11-13 02:30:53 [main] INFO  GLIndexBuffer - Created
+2025-11-13 02:30:53 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 02:30:54 [main] INFO  GLShader (default) - Compiled
+2025-11-13 02:30:54 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 02:30:54 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 02:30:54 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 02:30:54 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 02:30:54 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 02:30:56 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 02:30:56 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 02:30:57 [main] ERROR GLTexture (holy_mantle.png) - Failed to read bytes
+org.fern.engine.resource.ResourceNotFoundException: Resource not found (USER): assets/textures/holy_mantle.png
+	at org.fern.engine.resource.ResourceLoader.loadBytesUncached(ResourceLoader.kt:169)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$3(ResourceLoader.kt:50)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$4(ResourceLoader.kt:49)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:49)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:101)
+	at org.fern.engine.resource.ResourceLoader.loadBytes(ResourceLoader.kt:113)
+	at org.fern.engine.resource.ResourceLoader.loadBytes$default(ResourceLoader.kt:112)
+	at org.fern.engine.renderer.opengl.GLTexture.<init>(GLTexture.kt:114)
+	at org.fern.engine.renderer.Texture$Companion.create(Texture.kt:28)
+	at org.fern.engine.editor.TextureAssetInspectable.ensurePreview(TextureAssetInspectable.kt:93)
+	at org.fern.engine.editor.TextureAssetInspectable.drawPreviewSlot(TextureAssetInspectable.kt:42)
+	at org.fern.engine.editor.TextureAssetInspectable.draw(TextureAssetInspectable.kt:24)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:52)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:130)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 02:30:57 [main] WARN  GLTexture (holy_mantle.png) - Created 1x1 fallback
+2025-11-13 02:31:21 [main] INFO  GLTexture (holy_mantle.png) - Deleted
+2025-11-13 02:31:21 [main] ERROR GLTexture (holy_mantle.png) - Failed to read bytes
+org.fern.engine.resource.ResourceNotFoundException: Resource not found (USER): assets/textures/holy_mantle.png
+	at org.fern.engine.resource.ResourceLoader.loadBytesUncached(ResourceLoader.kt:169)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$3(ResourceLoader.kt:50)
+	at org.fern.engine.resource.ResourceLoader.loadResource$lambda$4(ResourceLoader.kt:49)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:49)
+	at org.fern.engine.resource.ResourceLoader.loadResource(ResourceLoader.kt:101)
+	at org.fern.engine.resource.ResourceLoader.loadBytes(ResourceLoader.kt:113)
+	at org.fern.engine.resource.ResourceLoader.loadBytes$default(ResourceLoader.kt:112)
+	at org.fern.engine.renderer.opengl.GLTexture.<init>(GLTexture.kt:114)
+	at org.fern.engine.renderer.Texture$Companion.create(Texture.kt:28)
+	at org.fern.engine.editor.TextureAssetInspectable.ensurePreview(TextureAssetInspectable.kt:93)
+	at org.fern.engine.editor.TextureAssetInspectable.drawPreviewSlot(TextureAssetInspectable.kt:65)
+	at org.fern.engine.editor.TextureAssetInspectable.draw(TextureAssetInspectable.kt:24)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:52)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:130)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 02:31:21 [main] WARN  GLTexture (holy_mantle.png) - Created 1x1 fallback
+2025-11-13 02:31:23 [main] INFO  GLVertexArray - Deleted
+2025-11-13 02:31:23 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 02:31:23 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 02:31:23 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 02:31:23 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 02:36:12 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 02:36:12 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 02:36:12 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 02:36:12 [main] INFO  GLFramebuffer - Created
+2025-11-13 02:36:12 [main] INFO  GLVertexArray - Created
+2025-11-13 02:36:12 [main] INFO  GLIndexBuffer - Created
+2025-11-13 02:36:12 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 02:36:12 [main] INFO  GLShader (default) - Compiled
+2025-11-13 02:36:12 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 02:36:12 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 02:36:12 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 02:36:12 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 02:36:12 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 02:36:17 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 02:36:17 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 02:36:17 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 02:36:17 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 02:36:23 [main] DEBUG EditorLayer - Selected: Square
+2025-11-13 02:36:27 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 02:36:29 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain_broken.png
+2025-11-13 02:36:29 [main] INFO  GLTexture (chain_broken.png) - Loaded (256x256)
+2025-11-13 02:36:34 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 02:36:38 [main] INFO  GLTexture (holy_mantle.png) - Deleted
+2025-11-13 02:36:38 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 02:36:45 [main] INFO  GLVertexArray - Deleted
+2025-11-13 02:36:45 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 02:36:45 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 02:36:45 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 02:36:45 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 03:02:03 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 03:02:03 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 03:02:03 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 03:02:03 [main] INFO  GLFramebuffer - Created
+2025-11-13 03:02:04 [main] INFO  GLVertexArray - Created
+2025-11-13 03:02:04 [main] INFO  GLIndexBuffer - Created
+2025-11-13 03:02:04 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 03:02:04 [main] INFO  GLShader (default) - Compiled
+2025-11-13 03:02:04 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 03:02:04 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 03:02:04 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 03:02:04 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 03:02:04 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 03:02:09 [main] DEBUG EditorLayer - Selected: Square
+2025-11-13 03:02:11 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain_broken.png
+2025-11-13 03:02:11 [main] INFO  GLTexture (chain_broken.png) - Loaded (256x256)
+2025-11-13 03:02:12 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain.png
+2025-11-13 03:02:12 [main] INFO  GLTexture (chain.png) - Loaded (256x256)
+2025-11-13 03:02:16 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 03:02:16 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 03:02:16 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 03:02:16 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 03:02:26 [main] DEBUG EditorLayer - Selected: Square
+2025-11-13 03:02:29 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 03:02:31 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 03:02:34 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 03:02:41 [main] INFO  GLVertexArray - Deleted
+2025-11-13 03:02:41 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 03:02:41 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 03:02:41 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 03:02:41 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 03:06:41 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 03:06:41 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 03:06:41 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 03:06:41 [main] INFO  GLFramebuffer - Created
+2025-11-13 03:06:41 [main] INFO  GLVertexArray - Created
+2025-11-13 03:06:41 [main] INFO  GLIndexBuffer - Created
+2025-11-13 03:06:41 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 03:06:41 [main] INFO  GLShader (default) - Compiled
+2025-11-13 03:06:41 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 03:06:42 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 03:06:42 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 03:06:42 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 03:06:42 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 03:06:45 [main] DEBUG EditorLayer - Selected: Square
+2025-11-13 03:06:47 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain_broken.png
+2025-11-13 03:06:47 [main] INFO  GLTexture (chain_broken.png) - Loaded (256x256)
+2025-11-13 03:06:51 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain.png
+2025-11-13 03:06:51 [main] INFO  GLTexture (chain.png) - Loaded (256x256)
+2025-11-13 03:06:54 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 03:06:54 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 03:06:56 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 03:06:56 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 03:06:57 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 03:07:01 [main] INFO  GLTexture (holy_mantle.png) - Deleted
+2025-11-13 03:07:01 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 03:07:18 [main] DEBUG EditorLayer - Selected: Camera 0
+2025-11-13 03:07:19 [main] DEBUG EditorLayer - Selected: Square
+2025-11-13 03:07:24 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 03:17:56 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 03:17:56 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 03:17:56 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 03:17:56 [main] INFO  GLFramebuffer - Created
+2025-11-13 03:17:57 [main] INFO  GLVertexArray - Created
+2025-11-13 03:17:57 [main] INFO  GLIndexBuffer - Created
+2025-11-13 03:17:57 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 03:17:57 [main] INFO  GLShader (default) - Compiled
+2025-11-13 03:17:57 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 03:17:57 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 03:17:57 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 03:17:57 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 03:17:57 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 03:18:00 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 03:18:00 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 03:18:10 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 03:18:10 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 03:18:19 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain_broken.png
+2025-11-13 03:18:19 [main] INFO  GLTexture (chain_broken.png) - Loaded (256x256)
+2025-11-13 03:18:20 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain.png
+2025-11-13 03:18:20 [main] INFO  GLTexture (chain.png) - Loaded (256x256)
+2025-11-13 03:18:34 [main] INFO  GLTexture (holy_mantle.png) - Deleted
+2025-11-13 03:18:34 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 03:18:35 [main] INFO  GLTexture (holy_mantle.png) - Deleted
+2025-11-13 03:18:35 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 03:18:39 [main] INFO  GLVertexArray - Deleted
+2025-11-13 03:18:39 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 03:18:39 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 03:18:40 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 03:18:40 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 03:19:20 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 03:19:20 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 03:19:20 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 03:19:20 [main] INFO  GLFramebuffer - Created
+2025-11-13 03:19:21 [main] INFO  GLVertexArray - Created
+2025-11-13 03:19:21 [main] INFO  GLIndexBuffer - Created
+2025-11-13 03:19:21 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 03:19:21 [main] INFO  GLShader (default) - Compiled
+2025-11-13 03:19:21 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 03:19:21 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 03:19:21 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 03:19:21 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 03:19:21 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 03:20:28 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain_broken.png
+2025-11-13 03:20:28 [main] INFO  GLTexture (chain_broken.png) - Loaded (256x256)
+2025-11-13 03:20:30 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain.png
+2025-11-13 03:20:30 [main] INFO  GLTexture (chain.png) - Loaded (256x256)
+2025-11-13 03:20:33 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 03:20:33 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 03:20:34 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 03:20:34 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 03:21:10 [main] INFO  GLVertexArray - Deleted
+2025-11-13 03:21:10 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 03:21:10 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 03:21:10 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 03:21:10 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 03:21:12 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 03:21:13 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 03:21:13 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 03:21:13 [main] INFO  GLFramebuffer - Created
+2025-11-13 03:21:13 [main] INFO  GLVertexArray - Created
+2025-11-13 03:21:13 [main] INFO  GLIndexBuffer - Created
+2025-11-13 03:21:13 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 03:21:13 [main] INFO  GLShader (default) - Compiled
+2025-11-13 03:21:13 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 03:21:13 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 03:21:13 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 03:21:13 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 03:21:13 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 03:21:16 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 03:21:16 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 03:21:17 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 03:21:17 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 03:21:21 [main] INFO  GLVertexArray - Deleted
+2025-11-13 03:21:21 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 03:21:21 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 03:21:21 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 03:21:21 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 14:50:02 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 14:50:02 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 14:50:02 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 14:50:02 [main] INFO  GLFramebuffer - Created
+2025-11-13 14:50:03 [main] INFO  GLVertexArray - Created
+2025-11-13 14:50:03 [main] INFO  GLIndexBuffer - Created
+2025-11-13 14:50:03 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 14:50:03 [main] INFO  GLShader (default) - Compiled
+2025-11-13 14:50:03 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 14:50:03 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 14:50:03 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 14:50:03 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 14:50:03 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 14:50:09 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain_broken.png
+2025-11-13 14:50:09 [main] INFO  GLTexture (chain_broken.png) - Loaded (256x256)
+2025-11-13 14:50:10 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain.png
+2025-11-13 14:50:10 [main] INFO  GLTexture (chain.png) - Loaded (256x256)
+2025-11-13 14:50:13 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 14:50:13 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 14:50:15 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 14:50:15 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 14:50:32 [main] INFO  GLVertexArray - Deleted
+2025-11-13 14:50:32 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 14:50:32 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 14:50:32 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 14:50:32 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 14:54:42 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 14:54:42 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 14:54:43 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 14:54:43 [main] INFO  GLFramebuffer - Created
+2025-11-13 14:54:43 [main] INFO  GLVertexArray - Created
+2025-11-13 14:54:43 [main] INFO  GLIndexBuffer - Created
+2025-11-13 14:54:43 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 14:54:43 [main] INFO  GLShader (default) - Compiled
+2025-11-13 14:54:43 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 14:54:43 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 14:54:43 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 14:54:43 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 14:54:43 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 14:54:49 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain_broken.png
+2025-11-13 14:54:49 [main] INFO  GLTexture (chain_broken.png) - Loaded (256x256)
+2025-11-13 14:54:54 [main] INFO  GLVertexArray - Deleted
+2025-11-13 14:54:55 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 14:54:55 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 14:54:55 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 14:54:55 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 14:57:47 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 14:57:47 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 14:57:47 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 14:57:47 [main] INFO  GLFramebuffer - Created
+2025-11-13 14:57:48 [main] INFO  GLVertexArray - Created
+2025-11-13 14:57:48 [main] INFO  GLIndexBuffer - Created
+2025-11-13 14:57:48 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 14:57:48 [main] INFO  GLShader (default) - Compiled
+2025-11-13 14:57:48 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 14:57:48 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 14:57:48 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 14:57:48 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 14:57:48 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 14:57:50 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 14:57:50 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 14:57:56 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 14:57:56 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 14:58:11 [main] INFO  GLVertexArray - Deleted
+2025-11-13 14:58:11 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 14:58:11 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 14:58:12 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 14:58:12 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 14:58:54 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 14:58:54 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 14:58:54 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 14:58:54 [main] INFO  GLFramebuffer - Created
+2025-11-13 14:58:54 [main] INFO  GLVertexArray - Created
+2025-11-13 14:58:54 [main] INFO  GLIndexBuffer - Created
+2025-11-13 14:58:54 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 14:58:54 [main] INFO  GLShader (default) - Compiled
+2025-11-13 14:58:54 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 14:58:54 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 14:58:54 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 14:58:55 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 14:58:55 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 14:58:57 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 14:58:57 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 14:58:57 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 14:58:57 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 14:59:00 [main] INFO  GLVertexArray - Deleted
+2025-11-13 14:59:00 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 14:59:00 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 14:59:00 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 14:59:00 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 15:00:12 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 15:00:12 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 15:00:12 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 15:00:12 [main] INFO  GLFramebuffer - Created
+2025-11-13 15:00:12 [main] INFO  GLVertexArray - Created
+2025-11-13 15:00:12 [main] INFO  GLIndexBuffer - Created
+2025-11-13 15:00:12 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 15:00:12 [main] INFO  GLShader (default) - Compiled
+2025-11-13 15:00:12 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 15:00:12 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 15:00:12 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 15:00:12 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 15:00:12 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 15:00:14 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 15:00:14 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 15:00:15 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 15:00:15 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 15:00:32 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 15:00:32 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 15:00:57 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain_broken.png
+2025-11-13 15:00:57 [main] INFO  GLTexture (chain_broken.png) - Loaded (256x256)
+2025-11-13 15:03:35 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 15:03:35 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 15:03:35 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 15:03:35 [main] INFO  GLFramebuffer - Created
+2025-11-13 15:03:35 [main] INFO  GLVertexArray - Created
+2025-11-13 15:03:35 [main] INFO  GLIndexBuffer - Created
+2025-11-13 15:03:35 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 15:03:35 [main] INFO  GLShader (default) - Compiled
+2025-11-13 15:03:35 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 15:03:36 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 15:03:36 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 15:03:36 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 15:03:36 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 15:03:43 [main] INFO  GLVertexArray - Deleted
+2025-11-13 15:03:43 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 15:03:43 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 15:03:43 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 15:03:43 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 15:14:33 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 15:14:33 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 15:14:33 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 15:14:33 [main] INFO  GLFramebuffer - Created
+2025-11-13 15:14:33 [main] INFO  GLVertexArray - Created
+2025-11-13 15:14:33 [main] INFO  GLIndexBuffer - Created
+2025-11-13 15:14:33 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 15:14:33 [main] INFO  GLShader (default) - Compiled
+2025-11-13 15:14:33 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 15:14:33 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 15:14:33 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 15:14:34 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 15:14:34 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 15:14:56 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 15:14:56 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 15:14:58 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 15:14:58 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 15:15:02 [main] INFO  GLVertexArray - Deleted
+2025-11-13 15:15:02 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 15:15:02 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 15:15:03 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 15:15:03 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 15:22:07 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 15:22:07 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 15:22:08 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 15:22:08 [main] INFO  GLFramebuffer - Created
+2025-11-13 15:22:08 [main] INFO  GLVertexArray - Created
+2025-11-13 15:22:08 [main] INFO  GLIndexBuffer - Created
+2025-11-13 15:22:08 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 15:22:08 [main] INFO  GLShader (default) - Compiled
+2025-11-13 15:22:08 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 15:22:08 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 15:22:08 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 15:22:08 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 15:22:08 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 15:22:45 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain_broken.png
+2025-11-13 15:22:45 [main] INFO  GLTexture (chain_broken.png) - Loaded (256x256)
+2025-11-13 15:22:46 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain.png
+2025-11-13 15:22:46 [main] INFO  GLTexture (chain.png) - Loaded (256x256)
+2025-11-13 15:23:00 [main] INFO  GLVertexArray - Deleted
+2025-11-13 15:23:00 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 15:23:00 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 15:23:00 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 15:23:00 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 15:25:21 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 15:25:21 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 15:25:21 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 15:25:21 [main] INFO  GLFramebuffer - Created
+2025-11-13 15:25:22 [main] INFO  GLVertexArray - Created
+2025-11-13 15:25:22 [main] INFO  GLIndexBuffer - Created
+2025-11-13 15:25:22 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 15:25:22 [main] INFO  GLShader (default) - Compiled
+2025-11-13 15:25:22 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 15:25:22 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 15:25:22 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 15:25:22 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 15:25:22 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 15:25:30 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain_broken.png
+2025-11-13 15:25:30 [main] INFO  GLTexture (chain_broken.png) - Loaded (256x256)
+2025-11-13 15:25:31 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain.png
+2025-11-13 15:25:31 [main] INFO  GLTexture (chain.png) - Loaded (256x256)
+2025-11-13 15:25:41 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 15:25:41 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 15:25:44 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 15:25:44 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 15:27:40 [main] INFO  GLVertexArray - Deleted
+2025-11-13 15:27:40 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 15:27:40 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 15:27:40 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 15:27:40 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 16:22:09 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 16:22:09 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 16:22:09 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 16:22:09 [main] INFO  GLFramebuffer - Created
+2025-11-13 16:22:10 [main] INFO  GLVertexArray - Created
+2025-11-13 16:22:10 [main] INFO  GLIndexBuffer - Created
+2025-11-13 16:22:10 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 16:22:10 [main] INFO  GLShader (default) - Compiled
+2025-11-13 16:22:10 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 16:22:10 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 16:22:10 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 16:22:10 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 16:22:10 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 16:23:24 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain_broken.png
+2025-11-13 16:23:24 [main] INFO  GLTexture (chain_broken.png) - Loaded (256x256)
+2025-11-13 16:23:27 [main] ERROR GameObjectInspectable - Failed to instantiate: org.fern.engine.scene.component.ScriptComponent
+java.lang.reflect.InvocationTargetException: null
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.fern.engine.editor.GameObjectInspectable.renderAddComponentPopup(GameObjectInspectable.kt:100)
+	at org.fern.engine.editor.GameObjectInspectable.draw(GameObjectInspectable.kt:84)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:49)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:128)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+Caused by: kotlin.UninitializedPropertyAccessException: lateinit property gameObject has not been initialized
+	at org.fern.engine.scene.component.Component.getGameObject(Component.kt:15)
+	at org.fern.engine.scene.component.ScriptComponent.<init>(ScriptComponent.kt:13)
+	... 16 common frames omitted
+2025-11-13 16:24:21 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 16:24:21 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 16:24:21 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 16:24:21 [main] INFO  GLFramebuffer - Created
+2025-11-13 16:24:21 [main] INFO  GLVertexArray - Created
+2025-11-13 16:24:21 [main] INFO  GLIndexBuffer - Created
+2025-11-13 16:24:21 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 16:24:21 [main] INFO  GLShader (default) - Compiled
+2025-11-13 16:24:51 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 16:24:51 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 16:24:51 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 16:24:51 [main] INFO  GLFramebuffer - Created
+2025-11-13 16:24:51 [main] INFO  GLVertexArray - Created
+2025-11-13 16:24:51 [main] INFO  GLIndexBuffer - Created
+2025-11-13 16:24:51 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 16:24:51 [main] INFO  GLShader (default) - Compiled
+2025-11-13 16:24:51 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 16:24:51 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 16:24:51 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 16:24:51 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 16:24:51 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 16:24:59 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 16:24:59 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 16:25:02 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 16:25:02 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 16:25:07 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file.png
+2025-11-13 16:25:07 [main] INFO  GLTexture (file.png) - Loaded (240x240)
+2025-11-13 16:25:11 [main] INFO  GLVertexArray - Deleted
+2025-11-13 16:25:11 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 16:25:11 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 16:25:12 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 16:25:12 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 16:25:19 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 16:25:19 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 16:25:19 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 16:25:19 [main] INFO  GLFramebuffer - Created
+2025-11-13 16:25:19 [main] INFO  GLVertexArray - Created
+2025-11-13 16:25:19 [main] INFO  GLIndexBuffer - Created
+2025-11-13 16:25:19 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 16:25:19 [main] INFO  GLShader (default) - Compiled
+2025-11-13 16:25:19 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 16:25:19 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 16:25:19 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 16:25:20 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 16:25:20 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 16:25:26 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 16:25:26 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 16:25:47 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 16:25:47 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 16:25:47 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 16:25:47 [main] INFO  GLFramebuffer - Created
+2025-11-13 16:25:47 [main] INFO  GLVertexArray - Created
+2025-11-13 16:25:47 [main] INFO  GLIndexBuffer - Created
+2025-11-13 16:25:47 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 16:25:47 [main] INFO  GLShader (default) - Compiled
+2025-11-13 16:25:47 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 16:25:47 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 16:25:47 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 16:25:48 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 16:25:48 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 16:25:53 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 16:25:53 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 16:26:00 [main] INFO  GLVertexArray - Deleted
+2025-11-13 16:26:00 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 16:26:00 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 16:26:00 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 16:26:00 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 16:29:19 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 16:29:19 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 16:29:19 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 16:29:19 [main] INFO  GLFramebuffer - Created
+2025-11-13 16:29:19 [main] INFO  GLVertexArray - Created
+2025-11-13 16:29:19 [main] INFO  GLIndexBuffer - Created
+2025-11-13 16:29:19 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 16:29:19 [main] INFO  GLShader (default) - Compiled
+2025-11-13 16:29:19 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 16:29:19 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 16:29:19 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 16:29:19 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 16:29:20 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 16:29:26 [main] INFO  GLVertexArray - Deleted
+2025-11-13 16:29:26 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 16:29:26 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 16:29:26 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 16:29:26 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 16:29:41 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 16:29:41 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 16:29:41 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 16:29:41 [main] INFO  GLFramebuffer - Created
+2025-11-13 16:29:42 [main] INFO  GLVertexArray - Created
+2025-11-13 16:29:42 [main] INFO  GLIndexBuffer - Created
+2025-11-13 16:29:42 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 16:29:42 [main] INFO  GLShader (default) - Compiled
+2025-11-13 16:29:42 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 16:29:42 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 16:29:42 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 16:29:42 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 16:29:42 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 16:29:52 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 16:29:52 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 16:30:18 [main] INFO  GLVertexArray - Deleted
+2025-11-13 16:30:18 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 16:30:18 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 16:30:18 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 16:30:18 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 16:30:50 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 16:30:50 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 16:30:50 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 16:30:50 [main] INFO  GLFramebuffer - Created
+2025-11-13 16:30:51 [main] INFO  GLVertexArray - Created
+2025-11-13 16:30:51 [main] INFO  GLIndexBuffer - Created
+2025-11-13 16:30:51 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 16:30:51 [main] INFO  GLShader (default) - Compiled
+2025-11-13 16:30:51 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 16:30:51 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 16:30:51 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 16:30:51 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 16:30:51 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 16:30:58 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 16:30:58 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 16:30:59 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 16:30:59 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 16:31:01 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 16:31:01 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 16:31:06 [main] INFO  GLVertexArray - Deleted
+2025-11-13 16:31:06 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 16:31:06 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 16:31:06 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 16:31:06 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 16:36:21 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 16:36:21 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 16:36:21 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 16:36:21 [main] INFO  GLFramebuffer - Created
+2025-11-13 16:36:21 [main] INFO  GLVertexArray - Created
+2025-11-13 16:36:21 [main] INFO  GLIndexBuffer - Created
+2025-11-13 16:36:21 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 16:36:21 [main] INFO  GLShader (default) - Compiled
+2025-11-13 16:36:21 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 16:36:21 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 16:36:21 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 16:36:22 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 16:36:22 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 16:36:29 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 16:36:29 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 16:36:34 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 16:36:34 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 16:36:37 [main] INFO  GLVertexArray - Deleted
+2025-11-13 16:36:37 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 16:36:37 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 16:36:37 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 16:36:37 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 16:36:46 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 16:36:47 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 16:36:47 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 16:36:47 [main] INFO  GLFramebuffer - Created
+2025-11-13 16:36:47 [main] INFO  GLVertexArray - Created
+2025-11-13 16:36:47 [main] INFO  GLIndexBuffer - Created
+2025-11-13 16:36:47 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 16:36:47 [main] INFO  GLShader (default) - Compiled
+2025-11-13 16:36:47 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 16:36:47 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 16:36:47 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 16:36:47 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 16:36:47 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 16:36:50 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 16:36:50 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 16:36:57 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 16:37:26 [main] INFO  GLVertexArray - Deleted
+2025-11-13 16:37:26 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 16:37:26 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 16:37:26 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 16:37:26 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 16:45:09 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 16:45:09 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 16:45:10 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 16:45:10 [main] INFO  GLFramebuffer - Created
+2025-11-13 16:45:10 [main] INFO  GLVertexArray - Created
+2025-11-13 16:45:10 [main] INFO  GLIndexBuffer - Created
+2025-11-13 16:45:10 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 16:45:10 [main] INFO  GLShader (default) - Compiled
+2025-11-13 16:45:10 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 16:45:10 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 16:45:10 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 16:45:10 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 16:45:10 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 16:45:13 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 16:45:13 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 16:45:23 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 16:45:35 [main] INFO  GLVertexArray - Deleted
+2025-11-13 16:45:35 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 16:45:35 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 16:45:35 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 16:45:35 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 16:50:43 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 16:50:43 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 16:50:43 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 16:50:43 [main] INFO  GLFramebuffer - Created
+2025-11-13 16:50:43 [main] INFO  GLVertexArray - Created
+2025-11-13 16:50:43 [main] INFO  GLIndexBuffer - Created
+2025-11-13 16:50:43 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 16:50:44 [main] INFO  GLShader (default) - Compiled
+2025-11-13 16:50:44 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 16:50:44 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 16:50:44 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 16:50:44 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 16:50:44 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 16:50:50 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 16:50:50 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 16:50:56 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 16:51:28 [main] INFO  GLVertexArray - Deleted
+2025-11-13 16:51:28 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 16:51:28 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 16:51:28 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 16:51:28 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 16:52:51 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 16:52:51 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 16:52:51 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 16:52:51 [main] INFO  GLFramebuffer - Created
+2025-11-13 16:52:51 [main] INFO  GLVertexArray - Created
+2025-11-13 16:52:51 [main] INFO  GLIndexBuffer - Created
+2025-11-13 16:52:51 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 16:52:51 [main] INFO  GLShader (default) - Compiled
+2025-11-13 16:52:51 [main] WARN  ScriptComponent - scriptRef is null
+2025-11-13 16:52:51 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 16:52:52 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 16:52:52 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 16:52:52 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 16:52:52 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 16:52:53 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 16:52:53 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 16:52:57 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 16:52:59 [main] INFO  GLVertexArray - Deleted
+2025-11-13 16:52:59 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 16:52:59 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 16:52:59 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 16:52:59 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 16:55:54 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 16:55:54 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 16:55:55 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 16:55:55 [main] INFO  GLFramebuffer - Created
+2025-11-13 16:55:55 [main] INFO  GLVertexArray - Created
+2025-11-13 16:55:55 [main] INFO  GLIndexBuffer - Created
+2025-11-13 16:55:55 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 16:55:55 [main] INFO  GLShader (default) - Compiled
+2025-11-13 16:55:55 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 16:55:55 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 16:55:55 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 16:55:55 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 16:55:55 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 16:56:00 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 16:56:00 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 16:56:04 [main] INFO  PythonScripting - Creating instance
+2025-11-13 16:56:04 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 16:56:07 [main] INFO  GLVertexArray - Deleted
+2025-11-13 16:56:07 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 16:56:07 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 16:56:07 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 16:56:07 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 16:57:11 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 16:57:11 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 16:57:11 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 16:57:11 [main] INFO  GLFramebuffer - Created
+2025-11-13 16:57:11 [main] INFO  GLVertexArray - Created
+2025-11-13 16:57:11 [main] INFO  GLIndexBuffer - Created
+2025-11-13 16:57:11 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 16:57:11 [main] INFO  GLShader (default) - Compiled
+2025-11-13 16:57:11 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 16:57:11 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 16:57:11 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 16:57:12 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 16:57:12 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 16:57:14 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 16:57:14 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 16:57:19 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 16:57:19 [main] INFO  PythonScripting - Creating SharedInterpreter
+2025-11-13 16:57:23 [main] INFO  GLVertexArray - Deleted
+2025-11-13 16:57:23 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 16:57:23 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 16:57:23 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 16:57:23 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 16:59:39 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 16:59:39 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 16:59:39 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 16:59:39 [main] INFO  GLFramebuffer - Created
+2025-11-13 16:59:39 [main] INFO  GLVertexArray - Created
+2025-11-13 16:59:39 [main] INFO  GLIndexBuffer - Created
+2025-11-13 16:59:39 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 16:59:39 [main] INFO  GLShader (default) - Compiled
+2025-11-13 16:59:39 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 16:59:39 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 16:59:39 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 16:59:39 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 16:59:39 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 16:59:44 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 16:59:44 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 16:59:45 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 16:59:46 [main] ERROR PythonScripting - Failed to create Python instance for scripts/hello.script
+java.lang.UnsatisfiedLinkError: no jep in java.library.path: C:\Users\alcan\.jdks\corretto-17.0.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\VulkanSDK\1.4.328.1\Bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\bin\x64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\bin;C:\Program Files\ImageMagick-7.1.2-Q16-HDRI;C:\Python313\Scripts\;C:\Python313\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\msys64\mingw64\bin;C:\Program Files\ffmpeg\bin;C:\Program Files\LOVE;C:\Tools;C:\msys64\mingw64\bin;C:\Users\alcan\.jdks\corretto-17.0.8\bin;C:\Program Files\WiX Toolset v6.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\CMake\bin;C:\vcpkg;C:\Users\alcan\AppData\Local\Muse Hub\lib;C:\Program Files\PuTTY\;C:\Program Files\gbdk-win64\gbdk\bin;C:\Users\alcan\AppData\Local\Programs\Microsoft VS Code;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2025.3.1\;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\alcan\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\alcan\AppData\Local\Programs\Python\Python310\;C:\Users\alcan\.cargo\bin;C:\Users\alcan\AppData\Local\Microsoft\WindowsApps;;C:\Users\alcan\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2025.1.1.1\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.1.1\bin;;C:\Program Files\JetBrains\JetBrains Rider 2025.1.2\bin;;C:\Program Files\JetBrains\RustRover 2025.1.4\bin;;C:\Program Files\JetBrains\CLion 2025.1.3\bin;;C:\Users\alcan\.dotnet\tools;C:\Users\alcan\AppData\Roaming\npm;.
+	at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2434)
+	at java.base/java.lang.Runtime.loadLibrary0(Runtime.java:818)
+	at java.base/java.lang.System.loadLibrary(System.java:1989)
+	at jep.MainInterpreter.initialize(MainInterpreter.java:129)
+	at jep.MainInterpreter.getMainInterpreter(MainInterpreter.java:101)
+	at jep.Jep.<init>(Jep.java:133)
+	at jep.SharedInterpreter.<init>(SharedInterpreter.java:60)
+	at org.fern.engine.script.PythonScripting.createInstance(PythonScripting.kt:72)
+	at org.fern.engine.scene.component.ScriptComponent.reload(ScriptComponent.kt:59)
+	at org.fern.engine.scene.component.ScriptComponent.setScript(ScriptComponent.kt:21)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at kotlin.reflect.jvm.internal.calls.CallerImpl$Method.callMethod(CallerImpl.kt:97)
+	at kotlin.reflect.jvm.internal.calls.CallerImpl$Method$Instance.call(CallerImpl.kt:113)
+	at kotlin.reflect.jvm.internal.KCallableImpl.call(KCallableImpl.kt:108)
+	at kotlin.reflect.jvm.internal.KMutableProperty1Impl.set(KProperty1Impl.kt:59)
+	at org.fern.engine.editor.ReflectionInspector.inspectObject$lambda$4(ReflectionInspector.kt:93)
+	at org.fern.engine.editor.ReflectionInspector.registerDefaultDrawers$lambda$45(ReflectionInspector.kt:439)
+	at org.fern.engine.editor.ReflectionInspector.drawValueInternal(ReflectionInspector.kt:193)
+	at org.fern.engine.editor.ReflectionInspector.drawValue(ReflectionInspector.kt:174)
+	at org.fern.engine.editor.ReflectionInspector.inspectObject(ReflectionInspector.kt:90)
+	at org.fern.engine.editor.GameObjectInspectable.draw(GameObjectInspectable.kt:63)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:49)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:130)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 16:59:46 [main] WARN  ScriptComponent - Failed to load script: scripts/hello.script
+2025-11-13 16:59:47 [main] INFO  GLVertexArray - Deleted
+2025-11-13 16:59:47 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 16:59:47 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 16:59:47 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 16:59:47 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 17:01:06 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 17:01:06 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 17:01:06 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 17:01:06 [main] INFO  GLFramebuffer - Created
+2025-11-13 17:01:06 [main] INFO  GLVertexArray - Created
+2025-11-13 17:01:06 [main] INFO  GLIndexBuffer - Created
+2025-11-13 17:01:06 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 17:01:06 [main] INFO  GLShader (default) - Compiled
+2025-11-13 17:01:06 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 17:01:07 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 17:01:07 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 17:01:07 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 17:01:07 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 17:01:11 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 17:01:11 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 17:01:12 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 17:01:12 [main] ERROR PythonScripting - Failed to create Python instance for scripts/hello.script
+java.lang.UnsatisfiedLinkError: no jep in java.library.path: C:\Users\alcan\.jdks\corretto-17.0.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\VulkanSDK\1.4.328.1\Bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\bin\x64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.0\bin;C:\Program Files\ImageMagick-7.1.2-Q16-HDRI;C:\Python313\Scripts\;C:\Python313\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\msys64\mingw64\bin;C:\Program Files\ffmpeg\bin;C:\Program Files\LOVE;C:\Tools;C:\msys64\mingw64\bin;C:\Users\alcan\.jdks\corretto-17.0.8\bin;C:\Program Files\WiX Toolset v6.0\bin\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\CMake\bin;C:\vcpkg;C:\Users\alcan\AppData\Local\Muse Hub\lib;C:\Program Files\PuTTY\;C:\Program Files\gbdk-win64\gbdk\bin;C:\Users\alcan\AppData\Local\Programs\Microsoft VS Code;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2025.3.1\;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Muse Hub\lib;C:\Users\alcan\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\alcan\AppData\Local\Programs\Python\Python310\;C:\Users\alcan\.cargo\bin;C:\Users\alcan\AppData\Local\Microsoft\WindowsApps;;C:\Users\alcan\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2025.1.1.1\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.1.1\bin;;C:\Program Files\JetBrains\JetBrains Rider 2025.1.2\bin;;C:\Program Files\JetBrains\RustRover 2025.1.4\bin;;C:\Program Files\JetBrains\CLion 2025.1.3\bin;;C:\Users\alcan\.dotnet\tools;C:\Users\alcan\AppData\Roaming\npm;.
+	at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2434)
+	at java.base/java.lang.Runtime.loadLibrary0(Runtime.java:818)
+	at java.base/java.lang.System.loadLibrary(System.java:1989)
+	at jep.MainInterpreter.initialize(MainInterpreter.java:129)
+	at jep.MainInterpreter.getMainInterpreter(MainInterpreter.java:101)
+	at jep.Jep.<init>(Jep.java:133)
+	at jep.SharedInterpreter.<init>(SharedInterpreter.java:60)
+	at org.fern.engine.script.PythonScripting.createInstance(PythonScripting.kt:72)
+	at org.fern.engine.scene.component.ScriptComponent.reload(ScriptComponent.kt:59)
+	at org.fern.engine.scene.component.ScriptComponent.setScript(ScriptComponent.kt:21)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at kotlin.reflect.jvm.internal.calls.CallerImpl$Method.callMethod(CallerImpl.kt:97)
+	at kotlin.reflect.jvm.internal.calls.CallerImpl$Method$Instance.call(CallerImpl.kt:113)
+	at kotlin.reflect.jvm.internal.KCallableImpl.call(KCallableImpl.kt:108)
+	at kotlin.reflect.jvm.internal.KMutableProperty1Impl.set(KProperty1Impl.kt:59)
+	at org.fern.engine.editor.ReflectionInspector.inspectObject$lambda$4(ReflectionInspector.kt:93)
+	at org.fern.engine.editor.ReflectionInspector.registerDefaultDrawers$lambda$45(ReflectionInspector.kt:439)
+	at org.fern.engine.editor.ReflectionInspector.drawValueInternal(ReflectionInspector.kt:193)
+	at org.fern.engine.editor.ReflectionInspector.drawValue(ReflectionInspector.kt:174)
+	at org.fern.engine.editor.ReflectionInspector.inspectObject(ReflectionInspector.kt:90)
+	at org.fern.engine.editor.GameObjectInspectable.draw(GameObjectInspectable.kt:63)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:49)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:130)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 17:01:12 [main] WARN  ScriptComponent - Failed to load script: scripts/hello.script
+2025-11-13 17:01:14 [main] INFO  GLVertexArray - Deleted
+2025-11-13 17:01:14 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 17:01:14 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 17:01:14 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 17:01:14 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 17:16:45 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 17:16:45 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 17:16:45 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 17:16:45 [main] INFO  GLFramebuffer - Created
+2025-11-13 17:16:46 [main] INFO  GLVertexArray - Created
+2025-11-13 17:16:46 [main] INFO  GLIndexBuffer - Created
+2025-11-13 17:16:46 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 17:16:46 [main] INFO  GLShader (default) - Compiled
+2025-11-13 17:16:46 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 17:16:46 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 17:16:46 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 17:16:46 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 17:16:46 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 17:16:50 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 17:16:50 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 17:16:52 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 17:26:59 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 17:26:59 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 17:26:59 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 17:26:59 [main] INFO  GLFramebuffer - Created
+2025-11-13 17:26:59 [main] INFO  GLVertexArray - Created
+2025-11-13 17:26:59 [main] INFO  GLIndexBuffer - Created
+2025-11-13 17:26:59 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 17:26:59 [main] INFO  GLShader (default) - Compiled
+2025-11-13 17:26:59 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 17:26:59 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 17:26:59 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 17:27:00 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 17:27:00 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 17:27:04 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 17:27:04 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 17:27:06 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 17:27:06 [main] ERROR PythonScripting - Failed to create Python instance for scripts/hello.script
+java.lang.UnsatisfiedLinkError: C:\Users\alcan\AppData\Local\Programs\Python\Python311\Lib\site-packages\jep\jep.dll: Can't find dependent libraries
+	at java.base/jdk.internal.loader.NativeLibraries.load(Native Method)
+	at java.base/jdk.internal.loader.NativeLibraries$NativeLibraryImpl.open(NativeLibraries.java:388)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:232)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:174)
+	at java.base/jdk.internal.loader.NativeLibraries.findFromPaths(NativeLibraries.java:315)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:287)
+	at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2427)
+	at java.base/java.lang.Runtime.loadLibrary0(Runtime.java:818)
+	at java.base/java.lang.System.loadLibrary(System.java:1989)
+	at jep.MainInterpreter.initialize(MainInterpreter.java:129)
+	at jep.MainInterpreter.getMainInterpreter(MainInterpreter.java:101)
+	at jep.Jep.<init>(Jep.java:133)
+	at jep.SharedInterpreter.<init>(SharedInterpreter.java:60)
+	at org.fern.engine.script.PythonScripting.createInstance(PythonScripting.kt:72)
+	at org.fern.engine.scene.component.ScriptComponent.reload(ScriptComponent.kt:59)
+	at org.fern.engine.scene.component.ScriptComponent.setScript(ScriptComponent.kt:21)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at kotlin.reflect.jvm.internal.calls.CallerImpl$Method.callMethod(CallerImpl.kt:97)
+	at kotlin.reflect.jvm.internal.calls.CallerImpl$Method$Instance.call(CallerImpl.kt:113)
+	at kotlin.reflect.jvm.internal.KCallableImpl.call(KCallableImpl.kt:108)
+	at kotlin.reflect.jvm.internal.KMutableProperty1Impl.set(KProperty1Impl.kt:59)
+	at org.fern.engine.editor.ReflectionInspector.inspectObject$lambda$4(ReflectionInspector.kt:93)
+	at org.fern.engine.editor.ReflectionInspector.registerDefaultDrawers$lambda$45(ReflectionInspector.kt:439)
+	at org.fern.engine.editor.ReflectionInspector.drawValueInternal(ReflectionInspector.kt:193)
+	at org.fern.engine.editor.ReflectionInspector.drawValue(ReflectionInspector.kt:174)
+	at org.fern.engine.editor.ReflectionInspector.inspectObject(ReflectionInspector.kt:90)
+	at org.fern.engine.editor.GameObjectInspectable.draw(GameObjectInspectable.kt:63)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:49)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:130)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 17:27:06 [main] WARN  ScriptComponent - Failed to load script: scripts/hello.script
+2025-11-13 17:27:09 [main] INFO  GLVertexArray - Deleted
+2025-11-13 17:27:09 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 17:27:09 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 17:27:09 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 17:27:09 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 17:27:38 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 17:27:38 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 17:27:38 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 17:27:38 [main] INFO  GLFramebuffer - Created
+2025-11-13 17:27:38 [main] INFO  GLVertexArray - Created
+2025-11-13 17:27:38 [main] INFO  GLIndexBuffer - Created
+2025-11-13 17:27:38 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 17:27:38 [main] INFO  GLShader (default) - Compiled
+2025-11-13 17:27:38 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 17:27:39 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 17:27:39 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 17:27:39 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 17:27:39 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 17:27:43 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 17:27:43 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 17:27:45 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 17:27:45 [main] ERROR PythonScripting - Failed to create Python instance for scripts/hello.script
+java.lang.UnsatisfiedLinkError: C:\Users\alcan\AppData\Local\Programs\Python\Python311\Lib\site-packages\jep\jep.dll: Can't find dependent libraries
+	at java.base/jdk.internal.loader.NativeLibraries.load(Native Method)
+	at java.base/jdk.internal.loader.NativeLibraries$NativeLibraryImpl.open(NativeLibraries.java:388)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:232)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:174)
+	at java.base/jdk.internal.loader.NativeLibraries.findFromPaths(NativeLibraries.java:315)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:287)
+	at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2427)
+	at java.base/java.lang.Runtime.loadLibrary0(Runtime.java:818)
+	at java.base/java.lang.System.loadLibrary(System.java:1989)
+	at jep.MainInterpreter.initialize(MainInterpreter.java:129)
+	at jep.MainInterpreter.getMainInterpreter(MainInterpreter.java:101)
+	at jep.Jep.<init>(Jep.java:133)
+	at jep.SharedInterpreter.<init>(SharedInterpreter.java:60)
+	at org.fern.engine.script.PythonScripting.createInstance(PythonScripting.kt:72)
+	at org.fern.engine.scene.component.ScriptComponent.reload(ScriptComponent.kt:59)
+	at org.fern.engine.scene.component.ScriptComponent.setScript(ScriptComponent.kt:21)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at kotlin.reflect.jvm.internal.calls.CallerImpl$Method.callMethod(CallerImpl.kt:97)
+	at kotlin.reflect.jvm.internal.calls.CallerImpl$Method$Instance.call(CallerImpl.kt:113)
+	at kotlin.reflect.jvm.internal.KCallableImpl.call(KCallableImpl.kt:108)
+	at kotlin.reflect.jvm.internal.KMutableProperty1Impl.set(KProperty1Impl.kt:59)
+	at org.fern.engine.editor.ReflectionInspector.inspectObject$lambda$4(ReflectionInspector.kt:93)
+	at org.fern.engine.editor.ReflectionInspector.registerDefaultDrawers$lambda$45(ReflectionInspector.kt:439)
+	at org.fern.engine.editor.ReflectionInspector.drawValueInternal(ReflectionInspector.kt:193)
+	at org.fern.engine.editor.ReflectionInspector.drawValue(ReflectionInspector.kt:174)
+	at org.fern.engine.editor.ReflectionInspector.inspectObject(ReflectionInspector.kt:90)
+	at org.fern.engine.editor.GameObjectInspectable.draw(GameObjectInspectable.kt:63)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:49)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:130)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 17:27:45 [main] WARN  ScriptComponent - Failed to load script: scripts/hello.script
+2025-11-13 17:27:47 [main] INFO  GLVertexArray - Deleted
+2025-11-13 17:27:47 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 17:27:47 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 17:27:47 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 17:27:47 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 17:28:24 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 17:28:24 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 17:28:24 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 17:28:24 [main] INFO  GLFramebuffer - Created
+2025-11-13 17:28:24 [main] INFO  GLVertexArray - Created
+2025-11-13 17:28:24 [main] INFO  GLIndexBuffer - Created
+2025-11-13 17:28:24 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 17:28:24 [main] INFO  GLShader (default) - Compiled
+2025-11-13 17:28:24 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 17:28:24 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 17:28:24 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 17:28:25 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 17:28:25 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 17:28:34 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 17:28:34 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 17:28:39 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 17:28:39 [main] ERROR PythonScripting - Failed to create Python instance for scripts/hello.script
+java.lang.UnsatisfiedLinkError: C:\Users\alcan\AppData\Local\Programs\Python\Python311\Lib\site-packages\jep\jep.dll: Can't find dependent libraries
+	at java.base/jdk.internal.loader.NativeLibraries.load(Native Method)
+	at java.base/jdk.internal.loader.NativeLibraries$NativeLibraryImpl.open(NativeLibraries.java:388)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:232)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:174)
+	at java.base/jdk.internal.loader.NativeLibraries.findFromPaths(NativeLibraries.java:315)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:287)
+	at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2427)
+	at java.base/java.lang.Runtime.loadLibrary0(Runtime.java:818)
+	at java.base/java.lang.System.loadLibrary(System.java:1989)
+	at jep.MainInterpreter.initialize(MainInterpreter.java:129)
+	at jep.MainInterpreter.getMainInterpreter(MainInterpreter.java:101)
+	at jep.Jep.<init>(Jep.java:133)
+	at jep.SharedInterpreter.<init>(SharedInterpreter.java:60)
+	at org.fern.engine.script.PythonScripting.createInstance(PythonScripting.kt:72)
+	at org.fern.engine.scene.component.ScriptComponent.reload(ScriptComponent.kt:59)
+	at org.fern.engine.scene.component.ScriptComponent.setScript(ScriptComponent.kt:21)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at kotlin.reflect.jvm.internal.calls.CallerImpl$Method.callMethod(CallerImpl.kt:97)
+	at kotlin.reflect.jvm.internal.calls.CallerImpl$Method$Instance.call(CallerImpl.kt:113)
+	at kotlin.reflect.jvm.internal.KCallableImpl.call(KCallableImpl.kt:108)
+	at kotlin.reflect.jvm.internal.KMutableProperty1Impl.set(KProperty1Impl.kt:59)
+	at org.fern.engine.editor.ReflectionInspector.inspectObject$lambda$4(ReflectionInspector.kt:93)
+	at org.fern.engine.editor.ReflectionInspector.registerDefaultDrawers$lambda$45(ReflectionInspector.kt:439)
+	at org.fern.engine.editor.ReflectionInspector.drawValueInternal(ReflectionInspector.kt:193)
+	at org.fern.engine.editor.ReflectionInspector.drawValue(ReflectionInspector.kt:174)
+	at org.fern.engine.editor.ReflectionInspector.inspectObject(ReflectionInspector.kt:90)
+	at org.fern.engine.editor.GameObjectInspectable.draw(GameObjectInspectable.kt:63)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:49)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:130)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 17:28:39 [main] WARN  ScriptComponent - Failed to load script: scripts/hello.script
+2025-11-13 17:28:42 [main] INFO  GLVertexArray - Deleted
+2025-11-13 17:28:42 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 17:28:42 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 17:28:42 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 17:28:42 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 17:31:13 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 17:31:13 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 17:31:13 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 17:31:13 [main] INFO  GLFramebuffer - Created
+2025-11-13 17:31:13 [main] INFO  GLVertexArray - Created
+2025-11-13 17:31:13 [main] INFO  GLIndexBuffer - Created
+2025-11-13 17:31:13 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 17:31:13 [main] INFO  GLShader (default) - Compiled
+2025-11-13 17:31:13 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 17:31:13 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 17:31:13 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 17:31:13 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 17:31:13 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 17:31:16 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 17:31:16 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 17:31:18 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 17:31:18 [main] ERROR PythonScripting - Failed to create Python instance for scripts/hello.script
+java.lang.UnsatisfiedLinkError: C:\Users\alcan\AppData\Local\Programs\Python\Python311\Lib\site-packages\jep\jep.dll: Can't find dependent libraries
+	at java.base/jdk.internal.loader.NativeLibraries.load(Native Method)
+	at java.base/jdk.internal.loader.NativeLibraries$NativeLibraryImpl.open(NativeLibraries.java:388)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:232)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:174)
+	at java.base/jdk.internal.loader.NativeLibraries.findFromPaths(NativeLibraries.java:315)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:287)
+	at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2427)
+	at java.base/java.lang.Runtime.loadLibrary0(Runtime.java:818)
+	at java.base/java.lang.System.loadLibrary(System.java:1989)
+	at jep.MainInterpreter.initialize(MainInterpreter.java:129)
+	at jep.MainInterpreter.getMainInterpreter(MainInterpreter.java:101)
+	at jep.Jep.<init>(Jep.java:133)
+	at jep.SharedInterpreter.<init>(SharedInterpreter.java:60)
+	at org.fern.engine.script.PythonScripting.createInstance(PythonScripting.kt:72)
+	at org.fern.engine.scene.component.ScriptComponent.reload(ScriptComponent.kt:59)
+	at org.fern.engine.scene.component.ScriptComponent.setScript(ScriptComponent.kt:21)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at kotlin.reflect.jvm.internal.calls.CallerImpl$Method.callMethod(CallerImpl.kt:97)
+	at kotlin.reflect.jvm.internal.calls.CallerImpl$Method$Instance.call(CallerImpl.kt:113)
+	at kotlin.reflect.jvm.internal.KCallableImpl.call(KCallableImpl.kt:108)
+	at kotlin.reflect.jvm.internal.KMutableProperty1Impl.set(KProperty1Impl.kt:59)
+	at org.fern.engine.editor.ReflectionInspector.inspectObject$lambda$4(ReflectionInspector.kt:93)
+	at org.fern.engine.editor.ReflectionInspector.registerDefaultDrawers$lambda$45(ReflectionInspector.kt:439)
+	at org.fern.engine.editor.ReflectionInspector.drawValueInternal(ReflectionInspector.kt:193)
+	at org.fern.engine.editor.ReflectionInspector.drawValue(ReflectionInspector.kt:174)
+	at org.fern.engine.editor.ReflectionInspector.inspectObject(ReflectionInspector.kt:90)
+	at org.fern.engine.editor.GameObjectInspectable.draw(GameObjectInspectable.kt:63)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:49)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:130)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 17:31:18 [main] WARN  ScriptComponent - Failed to load script: scripts/hello.script
+2025-11-13 17:31:19 [main] INFO  GLVertexArray - Deleted
+2025-11-13 17:31:19 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 17:31:19 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 17:31:19 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 17:31:19 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 17:31:57 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 17:31:57 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 17:31:57 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 17:31:57 [main] INFO  GLFramebuffer - Created
+2025-11-13 17:31:57 [main] INFO  GLVertexArray - Created
+2025-11-13 17:31:57 [main] INFO  GLIndexBuffer - Created
+2025-11-13 17:31:57 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 17:31:57 [main] INFO  GLShader (default) - Compiled
+2025-11-13 17:31:57 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 17:31:57 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 17:31:57 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 17:31:58 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 17:31:58 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 17:32:01 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 17:32:01 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 17:32:02 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 17:32:02 [main] ERROR PythonScripting - Failed to create Python instance for scripts/hello.script
+java.lang.UnsatisfiedLinkError: C:\Users\alcan\AppData\Local\Programs\Python\Python311\Lib\site-packages\jep\jep.dll: Can't find dependent libraries
+	at java.base/jdk.internal.loader.NativeLibraries.load(Native Method)
+	at java.base/jdk.internal.loader.NativeLibraries$NativeLibraryImpl.open(NativeLibraries.java:388)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:232)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:174)
+	at java.base/jdk.internal.loader.NativeLibraries.findFromPaths(NativeLibraries.java:315)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:287)
+	at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2427)
+	at java.base/java.lang.Runtime.loadLibrary0(Runtime.java:818)
+	at java.base/java.lang.System.loadLibrary(System.java:1989)
+	at jep.MainInterpreter.initialize(MainInterpreter.java:129)
+	at jep.MainInterpreter.getMainInterpreter(MainInterpreter.java:101)
+	at jep.Jep.<init>(Jep.java:133)
+	at jep.SharedInterpreter.<init>(SharedInterpreter.java:60)
+	at org.fern.engine.script.PythonScripting.createInstance(PythonScripting.kt:72)
+	at org.fern.engine.scene.component.ScriptComponent.reload(ScriptComponent.kt:59)
+	at org.fern.engine.scene.component.ScriptComponent.setScript(ScriptComponent.kt:21)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at kotlin.reflect.jvm.internal.calls.CallerImpl$Method.callMethod(CallerImpl.kt:97)
+	at kotlin.reflect.jvm.internal.calls.CallerImpl$Method$Instance.call(CallerImpl.kt:113)
+	at kotlin.reflect.jvm.internal.KCallableImpl.call(KCallableImpl.kt:108)
+	at kotlin.reflect.jvm.internal.KMutableProperty1Impl.set(KProperty1Impl.kt:59)
+	at org.fern.engine.editor.ReflectionInspector.inspectObject$lambda$4(ReflectionInspector.kt:93)
+	at org.fern.engine.editor.ReflectionInspector.registerDefaultDrawers$lambda$45(ReflectionInspector.kt:439)
+	at org.fern.engine.editor.ReflectionInspector.drawValueInternal(ReflectionInspector.kt:193)
+	at org.fern.engine.editor.ReflectionInspector.drawValue(ReflectionInspector.kt:174)
+	at org.fern.engine.editor.ReflectionInspector.inspectObject(ReflectionInspector.kt:90)
+	at org.fern.engine.editor.GameObjectInspectable.draw(GameObjectInspectable.kt:63)
+	at org.fern.engine.editor.InspectorWindow.renderContent(InspectorWindow.kt:49)
+	at org.fern.engine.editor.EditorWindow.render(EditorWindow.kt:52)
+	at org.fern.engine.editor.EditorSystem.render(EditorSystem.kt:38)
+	at org.fern.engine.layer.EditorLayer.onRenderImGui(EditorLayer.kt:130)
+	at org.fern.engine.core.Engine.run$lambda$7(Engine.kt:45)
+	at org.fern.engine.window.glfw.GLFWWindow.run(GLFWWindow.kt:199)
+	at org.fern.engine.core.Engine.run(Engine.kt:55)
+	at org.fern.engine.core.AppKt.main(App.kt:3)
+	at org.fern.engine.core.AppKt.main(App.kt)
+2025-11-13 17:32:02 [main] WARN  ScriptComponent - Failed to load script: scripts/hello.script
+2025-11-13 17:32:07 [main] INFO  GLVertexArray - Deleted
+2025-11-13 17:32:07 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 17:32:07 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 17:32:07 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 17:32:07 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 18:12:54 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 18:12:54 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 18:12:54 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 18:12:55 [main] INFO  GLFramebuffer - Created
+2025-11-13 18:12:55 [main] INFO  GLVertexArray - Created
+2025-11-13 18:12:55 [main] INFO  GLIndexBuffer - Created
+2025-11-13 18:12:55 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 18:12:55 [main] INFO  GLShader (default) - Compiled
+2025-11-13 18:12:55 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 18:12:55 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 18:12:55 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 18:12:55 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 18:12:55 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 18:13:02 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 18:13:02 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 18:13:04 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 18:18:16 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 18:18:16 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 18:18:16 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 18:18:16 [main] INFO  GLFramebuffer - Created
+2025-11-13 18:18:16 [main] INFO  GLVertexArray - Created
+2025-11-13 18:18:16 [main] INFO  GLIndexBuffer - Created
+2025-11-13 18:18:16 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 18:18:16 [main] INFO  GLShader (default) - Compiled
+2025-11-13 18:18:16 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 18:18:16 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 18:18:16 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 18:18:16 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 18:18:16 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 18:18:23 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 18:18:23 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 18:18:25 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 18:19:19 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 18:19:19 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 18:19:19 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 18:19:19 [main] INFO  GLFramebuffer - Created
+2025-11-13 18:19:20 [main] INFO  GLVertexArray - Created
+2025-11-13 18:19:20 [main] INFO  GLIndexBuffer - Created
+2025-11-13 18:19:20 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 18:19:20 [main] INFO  GLShader (default) - Compiled
+2025-11-13 18:19:20 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 18:19:20 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 18:19:20 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 18:19:20 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 18:19:20 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 18:19:24 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 18:19:24 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 18:19:25 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 18:20:31 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 18:20:31 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 18:20:31 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 18:20:31 [main] INFO  GLFramebuffer - Created
+2025-11-13 18:20:32 [main] INFO  GLVertexArray - Created
+2025-11-13 18:20:32 [main] INFO  GLIndexBuffer - Created
+2025-11-13 18:20:32 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 18:20:32 [main] INFO  GLShader (default) - Compiled
+2025-11-13 18:20:32 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 18:20:32 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 18:20:32 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 18:20:32 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 18:20:32 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 18:20:35 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 18:20:35 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 18:20:39 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 18:26:20 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 18:26:20 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 18:26:20 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 18:26:20 [main] INFO  GLFramebuffer - Created
+2025-11-13 18:26:21 [main] INFO  GLVertexArray - Created
+2025-11-13 18:26:21 [main] INFO  GLIndexBuffer - Created
+2025-11-13 18:26:21 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 18:26:21 [main] INFO  GLShader (default) - Compiled
+2025-11-13 18:26:21 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 18:26:21 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 18:26:21 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 18:26:21 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 18:26:21 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 18:26:25 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 18:26:25 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 18:26:26 [main] INFO  ResourceLoader - Loaded user resources: scripts/hello.script
+2025-11-13 19:12:56 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 19:12:56 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 19:12:56 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 19:12:56 [main] INFO  GLFramebuffer - Created
+2025-11-13 19:12:56 [main] INFO  GLVertexArray - Created
+2025-11-13 19:12:56 [main] INFO  GLIndexBuffer - Created
+2025-11-13 19:12:56 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 19:12:56 [main] INFO  GLShader (default) - Compiled
+2025-11-13 19:13:31 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 19:13:31 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 19:13:31 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 19:13:31 [main] INFO  GLFramebuffer - Created
+2025-11-13 19:13:32 [main] INFO  GLVertexArray - Created
+2025-11-13 19:13:32 [main] INFO  GLIndexBuffer - Created
+2025-11-13 19:13:32 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 19:13:32 [main] INFO  GLShader (default) - Compiled
+2025-11-13 19:13:32 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 19:13:32 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 19:13:32 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 19:13:32 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 19:13:32 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 19:13:36 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain_broken.png
+2025-11-13 19:13:36 [main] INFO  GLTexture (chain_broken.png) - Loaded (256x256)
+2025-11-13 19:13:37 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain.png
+2025-11-13 19:13:37 [main] INFO  GLTexture (chain.png) - Loaded (256x256)
+2025-11-13 19:13:40 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file.png
+2025-11-13 19:13:40 [main] INFO  GLTexture (file.png) - Loaded (240x240)
+2025-11-13 19:13:43 [main] INFO  GLVertexArray - Deleted
+2025-11-13 19:13:43 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 19:13:43 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 19:13:43 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 19:13:43 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 19:14:36 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 19:14:36 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 19:14:36 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 19:14:36 [main] INFO  GLFramebuffer - Created
+2025-11-13 19:14:37 [main] INFO  GLVertexArray - Created
+2025-11-13 19:14:37 [main] INFO  GLIndexBuffer - Created
+2025-11-13 19:14:37 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 19:14:37 [main] INFO  GLShader (default) - Compiled
+2025-11-13 19:14:37 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 19:14:37 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 19:14:37 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 19:14:37 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 19:14:37 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 19:14:41 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 19:14:41 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 19:14:46 [main] WARN  ScriptComponent - Script load failed: scripts/hello.kts
+2025-11-13 19:14:49 [main] INFO  GLVertexArray - Deleted
+2025-11-13 19:14:49 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 19:14:49 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 19:14:49 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 19:14:49 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 19:25:21 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 19:25:21 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 19:25:21 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 19:25:21 [main] INFO  GLFramebuffer - Created
+2025-11-13 19:25:22 [main] INFO  GLVertexArray - Created
+2025-11-13 19:25:22 [main] INFO  GLIndexBuffer - Created
+2025-11-13 19:25:22 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 19:25:22 [main] INFO  GLShader (default) - Compiled
+2025-11-13 19:25:22 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 19:25:22 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 19:25:22 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 19:25:22 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 19:25:22 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 19:25:34 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 19:25:34 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 19:25:40 [main] INFO  ScriptComponent - Script ready: scripts/hello.kts
+2025-11-13 19:26:36 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain_broken.png
+2025-11-13 19:26:36 [main] INFO  GLTexture (chain_broken.png) - Loaded (256x256)
+2025-11-13 19:26:36 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain.png
+2025-11-13 19:26:36 [main] INFO  GLTexture (chain.png) - Loaded (256x256)
+2025-11-13 19:27:08 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 19:27:08 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 19:27:08 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 19:27:08 [main] INFO  GLFramebuffer - Created
+2025-11-13 19:27:08 [main] INFO  GLVertexArray - Created
+2025-11-13 19:27:08 [main] INFO  GLIndexBuffer - Created
+2025-11-13 19:27:08 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 19:27:08 [main] INFO  GLShader (default) - Compiled
+2025-11-13 19:27:08 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 19:27:08 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 19:27:08 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 19:27:09 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 19:27:09 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 19:27:25 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain_broken.png
+2025-11-13 19:27:25 [main] INFO  GLTexture (chain_broken.png) - Loaded (256x256)
+2025-11-13 19:27:26 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/chain.png
+2025-11-13 19:27:26 [main] INFO  GLTexture (chain.png) - Loaded (256x256)
+2025-11-13 19:27:30 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 19:27:30 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 19:27:34 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_image.png
+2025-11-13 19:27:34 [main] INFO  GLTexture (file_image.png) - Loaded (240x240)
+2025-11-13 19:27:34 [main] INFO  ResourceLoader - Loaded user resources: textures/holy_mantle.png
+2025-11-13 19:27:34 [main] INFO  GLTexture (holy_mantle.png) - Loaded (32x32)
+2025-11-13 19:28:24 [main] INFO  ScriptComponent - Script ready: scripts/hello.kts
+2025-11-13 19:28:29 [main] INFO  GLVertexArray - Deleted
+2025-11-13 19:28:29 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 19:28:29 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 19:28:29 [main] INFO  ScriptContext - hello.kts destroyed
+2025-11-13 19:28:29 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 19:28:29 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 20:53:20 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 20:53:20 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 20:53:20 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 20:53:20 [main] INFO  GLFramebuffer - Created
+2025-11-13 20:53:20 [main] INFO  GLVertexArray - Created
+2025-11-13 20:53:20 [main] INFO  GLIndexBuffer - Created
+2025-11-13 20:53:20 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 20:53:20 [main] INFO  GLShader (default) - Compiled
+2025-11-13 20:53:21 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 20:53:21 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 20:53:21 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 20:53:21 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 20:53:21 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 20:53:31 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 20:53:31 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 20:53:36 [main] WARN  ScriptComponent - Script load failed: scripts/hello.kts
+2025-11-13 20:53:39 [main] INFO  GLVertexArray - Deleted
+2025-11-13 20:53:39 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 20:53:39 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 20:53:39 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 20:53:39 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 20:56:20 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 20:56:20 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 20:56:20 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 20:56:20 [main] INFO  GLFramebuffer - Created
+2025-11-13 20:56:20 [main] INFO  GLVertexArray - Created
+2025-11-13 20:56:21 [main] INFO  GLIndexBuffer - Created
+2025-11-13 20:56:21 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 20:56:21 [main] INFO  GLShader (default) - Compiled
+2025-11-13 20:56:21 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 20:56:21 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 20:56:21 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 20:56:21 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 20:56:21 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 20:56:26 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 20:56:26 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 20:56:31 [main] WARN  ScriptComponent - Script load failed: scripts/hello.script
+2025-11-13 20:56:40 [main] INFO  GLVertexArray - Deleted
+2025-11-13 20:56:40 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 20:56:40 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 20:56:40 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 20:56:40 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 20:59:04 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 20:59:04 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 20:59:04 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 20:59:04 [main] INFO  GLFramebuffer - Created
+2025-11-13 20:59:04 [main] INFO  GLVertexArray - Created
+2025-11-13 20:59:04 [main] INFO  GLIndexBuffer - Created
+2025-11-13 20:59:04 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 20:59:05 [main] INFO  GLShader (default) - Compiled
+2025-11-13 20:59:05 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 20:59:05 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 20:59:05 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 20:59:05 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 20:59:05 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 20:59:11 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 20:59:11 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 20:59:15 [main] WARN  ScriptComponent - Script load failed: scripts/hello.script
+2025-11-13 20:59:18 [main] INFO  GLVertexArray - Deleted
+2025-11-13 20:59:18 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 20:59:18 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 20:59:18 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 20:59:18 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW
+2025-11-13 20:59:41 [main] INFO  GLFWWindow (Fern Engine) - Initialized GLFW
+2025-11-13 20:59:41 [main] INFO  GLFWWindow (Fern Engine) - Created
+2025-11-13 20:59:41 [main] INFO  Renderer - Initialized (OpenGL)
+2025-11-13 20:59:41 [main] INFO  GLFramebuffer - Created
+2025-11-13 20:59:41 [main] INFO  GLVertexArray - Created
+2025-11-13 20:59:41 [main] INFO  GLIndexBuffer - Created
+2025-11-13 20:59:41 [main] INFO  ResourceLoader - Loaded user resources: shaders/default.glsl
+2025-11-13 20:59:41 [main] INFO  GLShader (default) - Compiled
+2025-11-13 20:59:42 [main] INFO  LayerStack - Pushed layer: EditorLayer
+2025-11-13 20:59:42 [main] INFO  ResourceLoader - Loaded internal resources: fonts/IBMPlexSans-Medium.ttf
+2025-11-13 20:59:42 [main] INFO  LayerStack - Pushed overlay: ImGuiLayer
+2025-11-13 20:59:42 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/folder.png
+2025-11-13 20:59:42 [main] INFO  GLTexture (folder.png) - Loaded (240x240)
+2025-11-13 20:59:48 [main] INFO  ResourceLoader - Loaded internal resources: textures/ui/file_code.png
+2025-11-13 20:59:48 [main] INFO  GLTexture (file_code.png) - Loaded (240x240)
+2025-11-13 20:59:53 [main] INFO  ScriptComponent - Script ready: scripts/hello.script
+2025-11-13 20:59:55 [main] INFO  GLVertexArray - Deleted
+2025-11-13 20:59:55 [main] INFO  GLVertexBuffer - Deleted
+2025-11-13 20:59:55 [main] INFO  GLIndexBuffer - Deleted
+2025-11-13 20:59:55 [main] INFO  ScriptContext (Script:Square) - hello.script destroyed
+2025-11-13 20:59:55 [main] INFO  GLFWWindow (Fern Engine) - Destroyed
+2025-11-13 20:59:55 [main] INFO  GLFWWindow (Fern Engine) - Terminated GLFW

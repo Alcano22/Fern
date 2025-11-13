@@ -1,0 +1,7 @@
+{
+    "minFilter": "NEAREST",
+    "magFilter": "NEAREST",
+    "wrapS": "REPEAT",
+    "wrapT": "REPEAT",
+    "generateMipmaps": true
+}

@@ -1,0 +1,20 @@
+{
+    "windows": [
+        {
+            "id": "viewport",
+            "open": true
+        },
+        {
+            "id": "inspector",
+            "open": true
+        },
+        {
+            "id": "hierarchy",
+            "open": true
+        },
+        {
+            "id": "file_explorer",
+            "open": true
+        }
+    ]
+}
